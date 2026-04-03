@@ -1,0 +1,14 @@
+# Buildroot
+output/
+dl/
+*.img
+*.vdi
+
+# Godot
+.godot/
+*.import
+export_presets.cfg
+*.tmp
+*.log
+.mono/
+data_*/
